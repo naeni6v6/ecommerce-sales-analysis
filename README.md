@@ -6,9 +6,6 @@ through EDA, RFM-based customer segmentation, and marketing strategy proposals.
 
 **Goal**: Develop strategies to increase total sales by 15% YoY
 
-## Team
-- Nayeon Kim, Yeonjae Oh, Doyoung Lee
-
 ## Dataset
 - Name: ecommerce_sales_34500.csv
 - Size: 34,500 transactions (2023–2025)
